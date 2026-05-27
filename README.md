@@ -15,9 +15,12 @@
 
 <br>
 
-En tant qu’étudiante en BUT MMI (Métiers du Multimédia et de l'Internet) spécialisée dans le développement web, j’aime créer des projets qui mêlent technologie, créativité et expérience utilisateur. Ce qui me passionne, c’est autant le fait de développer des fonctionnalités que d’imaginer des univers visuels et interactifs qui donnent vie aux idées !
+En tant qu’étudiante en BUT MMI (Métiers du Multimédia et de l'Internet) spécialisée dans le développement web, j’aime quand un projet fait le lien entre la technique, le design et la façon dont les gens utilisent réellement le site, et j'accorde beaucoup d'importance à l'expérience utilisateur ! Pour moi, le plus important c'est de trouver l'équilibre entre : une interface agréable / originale / dynamique & une interface claire / accessible et fonctionnelle.
 
-Mon objectif est de concevoir des expériences digitales modernes, accessibles et humaines, tout en continuant à explorer les nombreuses possibilités qu’offre le web créatif et interactif :)
+Lorsque je travaille sur une site ou autre, je garde toujours cette citation en tête :
+> "Concevez comme si vous étiez l'utilisateur... pas le concepteur."
+
+Je suis une personne très curieuse et passionnée, j'ai toujours envie d'apprendre de nouvelles choses, surtout dans un milieu qui bouge autant que le web :)
 
 <br>
 <hr>
