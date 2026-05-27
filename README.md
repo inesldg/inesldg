@@ -32,7 +32,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 </h3>
 
 <details>
-<summary>Développement web & Visualisations</summary>
+<summary>Développement web & Visualisations (clique pour ouvrir)</summary>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -52,7 +52,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 </details>
 
 <details>
-<summary>Outils de développement & Database</summary>
+<summary>Outils de développement & Database (clique pour ouvrir)</summary>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -69,7 +69,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 </details>
 
 <details>
-<summary>Environnements, systèmes & serveurs</summary>
+<summary>Environnements, systèmes & serveurs (clique pour ouvrir)</summary>
 <br>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -83,7 +83,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 </details>
 
 <details>
-<summary>Design UI/UX & maquettage</summary>
+<summary>Design UI/UX & maquettage (clique pour ouvrir)</summary>
 <br>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -116,6 +116,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 ### Mes contributions
 
 <img src="https://raw.githubusercontent.com/inesldg/inesldg/snake-output/snake.svg" alt="Snake animation" />
+
 <hr>
 
 > [!NOTE]
@@ -124,15 +125,6 @@ Mon GitHub, c’est surtout mes tests, mes projets perso et ce que j’apprends 
 
 
 #### Merci d'être passé ! :)
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ines-ledig/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="ledig.ines@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=164&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=dc5ccb"  />
