@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://banner.png"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inesldg/inesldg/pacman-output/pacman-contribution-graph-dark.svg">
