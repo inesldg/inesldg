@@ -30,6 +30,8 @@ _My goal is to design modern, accessible, and human-centered digital experiences
 <br>
 <hr>
 
+<img align="right" src="character_ines.png" alt="Inès — illustration" width="222" hspace="20" />
+
 <h3>
   <img src="starz.png" width="65" align="middle"> Mes compétences
 </h3>
