@@ -125,6 +125,15 @@ Mon GitHub, c’est surtout mes tests, mes projets perso et ce que j’apprends 
 
 #### Merci d'être passé ! :)
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/ines-ledig/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ledig.ines@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=164&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=dc5ccb"  />
 </div>
