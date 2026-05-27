@@ -112,6 +112,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 
 <br>
 <hr>
+
 ### Mes contributions
 
 <img src="https://raw.githubusercontent.com/inesldg/inesldg/snake-output/snake.svg" alt="Snake animation" />
