@@ -111,12 +111,18 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 </div>
 
 <br>
+<hr>
+### Mes contributions
 
 <img src="https://raw.githubusercontent.com/inesldg/inesldg/snake-output/snake.svg" alt="Snake animation" />
+<hr>
 
 > [!NOTE]
 > La plupart du code que tu croises ici, c’est souvent juste moi qui tente des trucs pour le plaisir...
 Mon GitHub, c’est surtout mes tests, mes projets perso et ce que j’apprends au fil de mes étdues. Vois-le comme un aperçu de mes expérimentations, et pas comme un portfolio abouti !
+
+
+#### Merci d'être passé ! :)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=164&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=dc5ccb"  />
