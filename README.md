@@ -72,7 +72,7 @@ _My goal is to design modern, accessible, and human-centered digital experiences
 </details>
 
 <details>
-<summary>Machines virtuelles</summary>
+<summary>Environnements, systèmes & serveurs</summary>
 <br>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -82,13 +82,11 @@ _My goal is to design modern, accessible, and human-centered digital experiences
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
 </div>
 </details>
 
 <details>
-<summary>Design et maquettage</summary>
+<summary>Design UI/UX & maquettage</summary>
 <br>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -99,6 +97,21 @@ _My goal is to design modern, accessible, and human-centered digital experiences
 </div>
 </details>
 
+<br>
+
+#### Ce que j'apprends / aimerais apprendre :
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+</div>
 
 <br>
 
