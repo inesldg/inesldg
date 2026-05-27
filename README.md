@@ -5,7 +5,7 @@
 <hr>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="65" align="middle"> Qui suis-je ?
+  <img src="starz.png" width="65" align="middle"> Qui suis-je ?
 </h3>
 
 <br>
