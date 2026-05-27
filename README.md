@@ -25,6 +25,14 @@ Mon objectif est de concevoir des expériences digitales modernes, accessibles e
 
 <br>
 
+_As a BUT MMI student specializing in web development, I enjoy creating projects that blend technology, creativity, and user experience. What I love most is not only building features, but also imagining visual and interactive worlds that bring ideas to life._
+
+_Curious and always eager to learn new things, I’m also interested in artificial intelligence and how it can enrich digital creation and open up new possibilities. I enjoy experimenting, testing, designing, and turning ideas into concrete, useful, and engaging projects._
+
+_My goal is to design modern, accessible, and human-centered digital experiences, while continuing to explore the many possibilities offered by creative and interactive web development._
+
+<br>
+
 <img src="https://raw.githubusercontent.com/inesldg/inesldg/snake-output/snake.svg" alt="Snake animation" />
 
 <!-- <br clear="both"> -->
