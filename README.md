@@ -121,7 +121,7 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 
 > [!NOTE]
 > La plupart du code que tu croises ici, c’est souvent juste moi qui tente des trucs pour le plaisir...
-Mon GitHub, c’est surtout mes tests, mes projets perso et ce que j’apprends au fil de mes étdues. Vois-le comme un aperçu de mes expérimentations, et pas comme un portfolio abouti !
+Mon GitHub, c’est surtout mes tests, mes projets perso et ce que j’apprends au fil de mes études. Donc à voir comme un aperçu de mes expérimentations, et pas comme un portfolio abouti !
 
 
 #### Merci d'être passé ! :)
