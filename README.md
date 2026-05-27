@@ -18,7 +18,7 @@
 En tant qu’étudiante en BUT MMI (Métiers du Multimédia et de l'Internet) spécialisée dans le développement web, j’aime quand un projet fait le lien entre la technique, le design et la façon dont les gens utilisent réellement le site, et j'accorde beaucoup d'importance à l'expérience utilisateur ! Pour moi, le plus important c'est de trouver l'équilibre entre : une interface agréable / originale / dynamique & une interface claire / accessible et fonctionnelle.
 
 Lorsque je travaille sur une site ou autre, je garde toujours cette citation en tête :
-> "Concevez comme si vous étiez l'utilisateur... pas le concepteur."
+> "Concevez comme si vous étiez l'utilisateur... pas le concepteur." - Luke Wroblewski
 
 Je suis une personne très curieuse et passionnée, j'ai toujours envie d'apprendre de nouvelles choses, surtout dans un milieu qui bouge autant que le web :)
 
@@ -114,7 +114,9 @@ Je suis une personne très curieuse et passionnée, j'ai toujours envie d'appren
 
 <img src="https://raw.githubusercontent.com/inesldg/inesldg/snake-output/snake.svg" alt="Snake animation" />
 
-<!-- <br clear="both"> -->
+> [!NOTE]
+> La plupart du code que tu croises ici, c’est souvent juste moi qui tente des trucs pour le plaisir...
+Mon GitHub, c’est surtout mes tests, mes projets perso et ce que j’apprends au fil de mes étdues. Vois-le comme un aperçu de mes expérimentations, et pas comme un portfolio abouti !
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=164&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=dc5ccb"  />
