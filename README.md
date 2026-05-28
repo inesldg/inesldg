@@ -17,7 +17,7 @@
 
 En tant qu’étudiante en BUT MMI (Métiers du Multimédia et de l'Internet) spécialisée dans le développement web, j’aime quand un projet fait le lien entre la technique, le design et la façon dont les gens utilisent réellement le site, et j'accorde beaucoup d'importance à l'expérience utilisateur ! Pour moi, le plus important c'est de trouver l'équilibre entre : une interface agréable / originale / dynamique & une interface claire / accessible et fonctionnelle.
 
-Lorsque je travaille sur une site ou autre, je garde toujours cette citation en tête :
+Lorsque je travaille sur un site ou autre, je garde toujours cette citation en tête :
 > "Concevez comme si vous étiez l'utilisateur... pas le concepteur." - Luke Wroblewski
 
 Je suis une personne très curieuse et passionnée, j'ai toujours envie d'apprendre de nouvelles choses, surtout dans un milieu qui bouge autant que le web :)
