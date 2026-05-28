@@ -22,6 +22,8 @@ Lorsque je travaille sur un site ou autre, je garde toujours cette citation en t
 
 Je suis une personne très curieuse et passionnée, j'ai toujours envie d'apprendre de nouvelles choses, surtout dans un milieu qui bouge autant que le web :)
 
+Mon portfolio en ligne : www.inesledig.com
+
 <br>
 <hr>
 
